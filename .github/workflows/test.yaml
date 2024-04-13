@@ -24,7 +24,8 @@ jobs:
         if: always()
         continue-on-error: true
         with:
-          ref: gh-pages
+          #ref: gh-pages
+          ref: ${{ origin/master }}
           path: gh-pages
       # report generation
       - uses: simple-elf/allure-report-action@master
