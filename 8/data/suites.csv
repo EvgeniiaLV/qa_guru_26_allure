@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 13 23:02:41 GMT 2024","Sat Apr 13 23:02:44 GMT 2024","2272","","guru.qa.tests.StepsTest","","guru.qa.tests.StepsTest","testWorkflowSearchWithLambda","Search for workflow number on the actions tab of the 'selenide-puzzles' repository with lambda functions",""
+"passed","Sat Apr 13 23:02:44 GMT 2024","Sat Apr 13 23:02:46 GMT 2024","2001","","guru.qa.tests.StepsTest","","guru.qa.tests.StepsTest","testWorkflowSearchWithAnnotatedStep","Search for workflow number on the actions tab of the 'selenide-puzzles' repository with annotated steps",""
+"passed","Sat Apr 13 23:02:36 GMT 2024","Sat Apr 13 23:02:41 GMT 2024","5621","","guru.qa.tests.SelenideTest","","guru.qa.tests.SelenideTest","testWorkflowSearch","Search for workflow number on the Actions tab of the 'selenide-puzzles' repository using Selenide",""
